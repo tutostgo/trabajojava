@@ -9,7 +9,7 @@ public class Fibonacci {
         // Inicializar los primeros dos números
         int a = 0, b = 1;
 
-        // Impresión de los primeros números
+        // Impresión de los números
         System.out.print(a + " " + b + " ");
         for (int i = 2; i < N; i++) {
             int siguiente = a + b;
